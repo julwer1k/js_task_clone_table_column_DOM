@@ -1,0 +1,2 @@
+var e,o,l=document.querySelector("thead"),r=document.querySelector("tbody"),t=document.querySelector("tfoot");r.querySelectorAll("tr").forEach(function(e){var o=e.cells[1].cloneNode(!0);e.insertBefore(o,e.lastElementChild)}),e=l.rows[0].cells[1].cloneNode(!0),l.rows[0].insertBefore(e,l.rows[0].lastElementChild),o=t.rows[0].cells[1].cloneNode(!0),t.rows[0].insertBefore(o,t.rows[0].lastElementChild);
+//# sourceMappingURL=index.1abdfcc7.js.map
